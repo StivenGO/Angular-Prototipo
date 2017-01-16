@@ -33,5 +33,5 @@ angular.module('prototipoApp')
 
     $scope.rate=0;
     $scope.max=10;
-    $scope.isReadonly=false;
+    $scope.isReadonly=true;
   });
